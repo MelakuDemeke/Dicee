@@ -14,6 +14,6 @@ This is a simple frontend project which is built while learning full-stack web d
 
 ## Result of the code
 
-![site picture](images/screenshot1.png)
-![site picture](images/screenshot2.png)
-![site picture](images/screenshot3s.png)
+![site picture](images/Screenshot1.png)
+![site picture](images/Screenshot2.png)
+![site picture](images/Screenshot3s.png)
